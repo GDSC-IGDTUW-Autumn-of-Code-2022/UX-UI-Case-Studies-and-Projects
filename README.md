@@ -37,7 +37,7 @@ Contribution period ends: 22 December 2022
 You can refer to the following resources on Git and Github to get started and contact our Project Mentors via [Discord](https://discord.gg/xTNC4MGB) if you have any doubts.
 
 - [Learn how to contribute to GDSC IGDTUW Autumn of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
-- [Go through this repository to how to contribute learn step-by-step] (https://github.com/firstcontributions/first-contributions)
+- [Go through this repository to how to contribute learn step-by-step](https://github.com/firstcontributions/first-contributions)
 - [Watch this video to get started](https://youtu.be/SL5KKdmvJ1U)
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
