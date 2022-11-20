@@ -62,4 +62,4 @@ Swag kits and lots of exciting goodies | Certificate of appreciation
 - All the contributors will get a certificate of appreciation for their first successful pull request
 
 
-Join our [Discord](https://discord.gg/xTNC4MGB) to stay in touch with project mentors and for any furthur questions. 
+Join our [Discord](https://discord.gg/KKFUVma6) to stay in touch with project mentors and for any furthur questions. 
