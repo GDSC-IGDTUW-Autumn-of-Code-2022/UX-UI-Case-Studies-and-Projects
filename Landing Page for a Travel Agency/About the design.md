@@ -1,8 +1,8 @@
+# About the design
 Attached is the landing page for the Travel Agency called "Be My guest". 
 
+## Why teal?
 The main colour pallette is that of teal and white. 
-
-But why teal?
 Teal is a colour that is popular in the current aesthetic palette.
 
 Teal mixes the soothing aspects of blue with the revitalising qualities of green. It is a refreshing and invigorating hue that also denotes open communication and clarity of ideas. Teal represents the infinity of the sea and sky to Tibetan monks, while it is the colour of truth and faith to Egyptians.
