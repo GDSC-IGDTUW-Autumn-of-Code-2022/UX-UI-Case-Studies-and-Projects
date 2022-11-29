@@ -4,7 +4,8 @@
 </p>
 
 Video demo of how the app works and how people can see the toppings they chose
-<video controls>
-  <source src="pizzaBox_demoVid.mp4" type="video/mp4">
-  
-</video>
+
+
+
+https://user-images.githubusercontent.com/104219535/204527251-593bd181-2e38-4866-977c-f629ea1ed090.mp4
+
