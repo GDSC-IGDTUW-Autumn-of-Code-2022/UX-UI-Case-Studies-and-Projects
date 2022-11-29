@@ -4,7 +4,19 @@
 </p>
 
 Video demo of how the app works and how people can see the toppings they chose
-<video controls>
-  <source src="pizzaBox_demoVid.mp4" type="video/mp4">
-  
-</video>
+https://user-images.githubusercontent.com/104219535/204527251-593bd181-2e38-4866-977c-f629ea1ed090.mp4
+
+**Process**
+
+**Introduction**
+The pizza box is an application where customers can customise and add toppings to their pizza and can see how their pizza looks like.
+
+**Tools Used**
+1) Figma: for designing and prototyping
+2) Adobe Photoshop: for creating mockups
+
+**Brand Style Guide**
+
+1) Colors
+- Usage of color yellow
+
