@@ -1,5 +1,7 @@
 # Design a screen where user can customize their pizza toppings and see it
-<p align="center">
+
+Drive link for the pictures of screens: https://drive.google.com/file/d/1ZqsL-vd3OP8eRu-D9oMsCJdot9ryJb0T/view?usp=sharing
+p align="center">
 <img src="https://i.ibb.co/2WjmN5Y/the-pizza-box-mockup.png" alt="the-pizza-box-mockup" border="0">
 </p>
 
