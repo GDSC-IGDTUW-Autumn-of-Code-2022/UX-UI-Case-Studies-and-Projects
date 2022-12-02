@@ -2,7 +2,7 @@
 
 Drive link to the screens : https://drive.google.com/drive/folders/1Jb7J26TVJFTlHaK84TthikvRMs0hvbJS?usp=sharing
 <p align ="center">
-![mockup1](https://user-images.githubusercontent.com/104219535/205340747-1ce5d45f-ef85-4f86-9c2f-f60b4f73ec26.png)
+https://user-images.githubusercontent.com/104219535/205340747-1ce5d45f-ef85-4f86-9c2f-f60b4f73ec26.png
 </p>
 
 Demo video: 
