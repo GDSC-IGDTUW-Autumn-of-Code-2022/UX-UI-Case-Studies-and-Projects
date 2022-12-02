@@ -3,7 +3,11 @@
 Drive link to the screens : https://drive.google.com/drive/folders/1Jb7J26TVJFTlHaK84TthikvRMs0hvbJS?usp=sharing
 
 Demo video: 
-https://user-images.githubusercontent.com/104219535/205340847-3f60a5ed-e556-42b8-96fd-f7b6fd234aa6.mp4
+
+
+https://user-images.githubusercontent.com/104219535/205350430-da35f9aa-66b3-40e7-911d-5dcad1464d38.mp4
+
+
 
 *Process*
 
