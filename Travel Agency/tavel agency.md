@@ -1,0 +1,2 @@
+What is a travel agency landing page?
+Whether you're hosting a tour or helping people book their dream vacation, a travel landing page is the page a visitor will land on when they're looking to book your services. There are different types of travel landing pages you might have on your site.
