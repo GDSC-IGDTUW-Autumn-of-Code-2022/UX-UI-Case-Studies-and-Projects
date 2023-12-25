@@ -29,7 +29,7 @@ https://dribbble.com/
 
 
 You can take up any of the existing issues or create a new to to contribute any of your own projects!<br/> 
-Contribution period ends: 22 December 2022
+Contribution period ends: 26th January 2024
 
 
 ## How to get started?
